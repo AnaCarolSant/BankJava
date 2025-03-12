@@ -1,4 +1,4 @@
-package com.bank.demo;
+package com.bank.demo.model;
 
 import java.time.LocalDateTime;
 
